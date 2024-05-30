@@ -55,7 +55,7 @@ h3 {font-size: 22}
 }
 
 .slottet {
-    margin-right: 20
+    margin-right: 20;
 }
 
 .opera-flex {
@@ -70,4 +70,33 @@ h3 {font-size: 22}
 .opera-slott {
     display: flex;
     flex-direction: row;
+}
+
+.sauna-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.saunatext {
+    margin-right: 10;
+    width: 271
+}
+
+.sauna {
+    margin-right: 20;
+}
+
+.aker-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.akertext {
+    margin-right: 10;
+}
+
+.sauna-aker {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100
 }
