@@ -100,3 +100,33 @@ h3 {font-size: 22}
     flex-direction: row;
     margin-top: 100
 }
+
+.sommer-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.sommertext {
+    margin-right: 10;
+    width: 271
+}
+
+.sommer{
+    margin-right: 20;
+}
+
+.vinter-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.vintertext {
+    margin-right: 10;
+}
+
+.sommer-vinter {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100;
+    margin-bottom: 100
+}
