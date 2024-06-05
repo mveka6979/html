@@ -1,0 +1,22 @@
+.navbar {
+    background-color: black;
+    font-size: 25px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-family: "Garamond", Times, serif;
+    margin-right: 15;
+    margin-left: 15;
+}
+
+.navbar a:hover {
+    color: #ffccff;
+}
+
+.future {
+    transform: rotate(180deg);
+}
