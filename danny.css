@@ -17,6 +17,54 @@
     color: #ffccff;
 }
 
+.ro1 {
+    transform: rotate(30deg)
+}
+
+.ro2 {
+    transform: rotate(60deg)
+}
+
+.ro3 {
+    transform: rotate(90deg)
+}
+
+.ro4 {
+    transform: rotate(120deg)
+}
+
+.ro5 {
+    transform: rotate(150deg)
+}
+
+.ro6 {
+    transform: rotate(180deg)
+}
+
+.ro7 {
+    transform: rotate(210deg)
+}
+
+.ro8 {
+    transform: rotate(240deg)
+}
+
+.ro9 {
+    transform: rotate(270deg)
+}
+
+.ro10 {
+    transform: rotate(300deg)
+}
+
+.ro11 {
+    transform: rotate(330deg)
+}
+
+
+
 .future {
     transform: rotate(180deg);
+    flex: auto;
+    
 }
